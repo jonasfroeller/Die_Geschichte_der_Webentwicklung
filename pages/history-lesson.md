@@ -110,9 +110,9 @@ Geschichtsstunde: <br>Wie alles begann.
 ## Die Pioniere der Suchmaschinen
 
 - **Archie (1990)**: Erste Suchmaschine.
-  - FTP-Server konnte nach Dateinamen und Meta-Informationen durchsucht werden.
-- **Lycos (1994)**: Eine der ersten Suchmaschinen, die Dokumente durchsuchen und die Häufigkeit von Suchbegriffen ermitteln konnte.
-- **Google (1998)**: Revolutionierte den Markt mit überlegener Relevanz und Geschwindigkeit, was es zur bevorzugten Suchmaschine machte.
+  - durchsuchte FTP-Server nach Dateinamen und Meta-Daten.
+- **Lycos (1994)**: durchsuchte Dokumente und ermittelte die Häufigkeit von Suchbegriffen
+- **Google (1998)**: revolutionierte den Markt mit überlegener Relevanz und Geschwindigkeit
 
 </div>
 

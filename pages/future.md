@@ -55,6 +55,16 @@ console.log(`vue ${version}`)
 console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-2)!], [1, 1]))
 ```
 
+* Serverless
+* WebAssembly
+* PWAs
+* Toolchains
+
+<!--
+# Webentwicklung Heute
+
+> Es hat sich einiges getan!
+
 ## Serverless
 
 * Wartung und 
@@ -76,10 +86,9 @@ console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-
 * Deno (Rust)
 * oxc (Rust)
 
-<!--
-# Webentwicklung Heute
 
-> Es hat sich einiges getan!
+Mehr Infos:
+___
 
 1. Serverless
 
