@@ -4,7 +4,7 @@ layout: cover
 background: /image-17.png
 ---
 
-# Was haben wir getan? - <br>Das Framework Massacre. (State of Frontend)
+# Was haben wir getan? - <br>Das Framework Massacre.
 
 <!--
 # Was haben wir getan? - <br>Das Framework Massacre. (State of Frontend)
@@ -17,11 +17,11 @@ image: /image-18.png
 
 # Frameworks
 
-- **jQuery** (2006): einfachere DOM-Manipulation.
-- **AngularJS** (2010): Neuer Ansatz für SPAs.
-- **React** (2013): entwickelt von Facebook (eigentlich Library).
-- **Vue** (2014): Leichtgewichtige Alternative (Busproblem).
-- **Svelte** (2016): Kompiliert zur Build-Zeit, keine Laufzeitbibliothek, hohe Performance.  (eigentlich Compiler)
+- **jQuery** (2006): einfachere DOM-Manipulation
+- **AngularJS** (2010): neuer Ansatz für SPAs
+- **React** (2013): entwickelt von Facebook (eigentlich Library)
+- **Vue** (2014): leichtgewichtige Alternative (Busproblem)
+- **Svelte** (2016): kompiliert zur Build-Zeit (eigentlich Compiler)
 
 <!-- Image Source: https://www.reddit.com/r/ProgrammerHumor/comments/zajepm/most_mentally_stable_web_developer/ -->
 
@@ -55,7 +55,7 @@ transition: slide-up
 * Next.js
 * Nuxt.js
 * SvelteKit
-* HTMX <br>(Clientseitiges Script für HTML-Events)
+* HTMX
 
 <!-- Image Source: https://www.reddit.com/r/programminghumor/comments/1f2lzhb/fuck_nodejs -->
 

@@ -18,15 +18,15 @@ Geschichtsstunde: <br>Wie alles begann.
 <div grid="~ cols-2 gap-4">
 <div>
 
-* **Erste Webbrowser:** WorldWideWeb (später Nexus)
+* **Erste Webbrowser:** WorldWideWeb
 * **Standards:**
-  * HTTP (Tim Berners-Lee, 1989) & FTP
+  * IP (RFC 791), HTTP (RFC 2616) & FTP (RFC 959)
   * HTML
 * **Herausforderungen:**
   * Browser-Kompatibilität ([caniuse](https://caniuse.com))
-    * WorldWideWeb funktionierte nur auf dem NeXTSTEP-Betriebssystem
+    * nur auf NeXTSTEP-Betriebssystem
   * Responsiveness (zach)
-    * WorldWideWeb konnte nicht einmal Grafiken anzeigen und öffnete diese in einem anderen Programm.
+    * WorldWideWeb konnte nicht einmal Grafiken anzeigen
 
 </div><div>
 
@@ -45,15 +45,16 @@ Geschichtsstunde: <br>Wie alles begann.
 <!--
 # Browser
 
-* **Erste Webbrowser:** WorldWideWeb (später Nexus)
+* **Erste Webbrowser:** WorldWideWeb (1990, später Nexus)
 * **Standards:**
-  * HTTP (Tim Berners-Lee, 1989) & FTP
+  * IP (1981 in RFC 791), FTP (RFC 959 von 1985) & HTTP (RFC 2616, 1989|1991, Tim Berners-Lee)
   * HTML
 * **Herausforderungen:**
   * Browser-Kompatibilität ([caniuse](https://caniuse.com))
     * WorldWideWeb funktionierte nur auf dem NeXTSTEP-Betriebssystem
   * Responsiveness (zach)
     * WorldWideWeb konnte nicht einmal Grafiken anzeigen und öffnete diese in einem anderen Programm.
+      * Später unterstützte der Browser das NeXT-Bilderformat.
 -->
 
 ---
@@ -141,18 +142,16 @@ Geschichtsstunde: <br>Wie alles begann.
   * Chrome als aktiver Akteur: Vorschläge, Prototypen, Tests über "Origin Trials".
 * Technische Standards: RFC (Request for Comments)
   * Dokumentation technischer Spezifikationen, Standards und Protokolle durch IETF.
-  * z.B. RFC 791 (Internet Protocol) oder RFC 2616 (HTTP/1.1)
 
 <!--
 * HTML5: Standardisierung durch W3C (World Wide Web Consortium) und WHATWG (Web Hypertext Application Technology Working Group).
-* CSS3: Standardisierung durch W3C (World Wide Web Consortium).
-* ES6 (ECMAScript 2015, Brendan Eich): Standardisierung durch Ecma International mit jährlichen Updates.
+* CSS3 (1996, 1998, 1999): Standardisierung durch W3C (World Wide Web Consortium).
+* ES6 (1995) (ECMAScript seit 1997 | 15th Edition – ECMAScript 2024, Brendan Eich): Standardisierung durch Ecma International mit jährlichen Updates.
 * Implementierung neuer Webstandards in Browsern.
   * Phasen: Vorschlag, Prototyping, Standardisierung, Testing, stufenweise Einführung, vollständige Implementierung.
   * Chrome als aktiver Akteur: Vorschläge, Prototypen, Tests über "Origin Trials".
 * Technische Standards: RFC (Request for Comments)
   * Dokumentation technischer Spezifikationen, Standards und Protokolle durch IETF.
-  * z.B. RFC 791 (Internet Protocol) oder RFC 2616 (HTTP/1.1)
 -->
 
 ---
@@ -188,12 +187,12 @@ Geschichtsstunde: <br>Wie alles begann.
 
 # Entwicklung des Internets
 
-- 1990: Tim Berners-Lee entwickelt den ersten Browser, Start mit einfachen HTML-Seiten.
+- 1990: Erster Browser.
 - 1992: Erstes Bild wird hochgeladen.
 - 1992: Websites wachsen von 10 auf über 1 Million in 1997.
 - Flash-Ära: Animationen und Spiele ([killed by Google](https://killedbygoogle.com), 296)
 - Web-Fonts
-- 2007: Iphone und Mobile und responsive Designs
+- 2007: Iphone, Mobile und responsive Designs
 
 <!--
 # Entwicklung der Webgestaltung und -technologien
@@ -243,9 +242,9 @@ transition: slide-up
 
 # Entwicklung der Webentwicklung
 
-* 2005: Google macht AJAX (async js/xml) - "the xml http thing" groß
-* 2007: jQuery wird bekannter und damit clientseitiges rendering mehr
-* 2008: Chrome wird veröffentlicht und setzt neue Maßstäbe in Leistung und Nutzererfahrung
+* 2005: Google macht AJAX (*"the xml http thing"*)
+* 2007: jQuery wird bekannter
+* 2008: Chrome wird veröffentlicht - neue Maßstäbe
 * 2010: Aufstieg der JavaScript-Frameworks
   * jetzt auch JS im backend
   * SPAs im kommen
@@ -253,7 +252,7 @@ transition: slide-up
 * 2016: AngularJS wird Angular (JS => TS)
   * React & Vue etablieren sich
 * 2022: Back to the roots: SSR erlebt eine Renaissance
-* Astro: SSR Framework mit Adaptern für Frontend-Frameworks, HTMX (HATEOAS (Hypermedia as the Engine of Application State))
+* Astro: SSR Framework mit Adaptern für Frontend-Frameworks, HTMX
 * Typescript ist Industriestandard
 
 <!--
@@ -288,6 +287,7 @@ transition: slide-up
   - Ziel: performante, schlanke Anwendungen.
 
 - **Moderne Webentwicklung**
-  - Hybrid-Tools wie Astro kombinieren statische Generierung und SSR.
+  - Hybrid-Tools wie Astro kombinieren statische Generierung und SSR. HTMX (HATEOAS (Hypermedia as the Engine of
+  Application State)) wird groß
   - TypeScript wird Standard, leichte Bibliotheken wie Solid.js unterstützen Interaktivität.
 -->
