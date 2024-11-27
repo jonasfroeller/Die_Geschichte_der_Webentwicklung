@@ -144,9 +144,9 @@ Geschichtsstunde: <br>Wie alles begann.
   * z.B. RFC 791 (Internet Protocol) oder RFC 2616 (HTTP/1.1)
 
 <!--
-* HTML5: Standardisierung durch W3C und WHATWG.
-* CSS3: Standardisierung durch W3C.
-* ES6 (ECMAScript 2015): Standardisierung durch Ecma International mit jährlichen Updates.
+* HTML5: Standardisierung durch W3C (World Wide Web Consortium) und WHATWG (Web Hypertext Application Technology Working Group).
+* CSS3: Standardisierung durch W3C (World Wide Web Consortium).
+* ES6 (ECMAScript 2015, Brendan Eich): Standardisierung durch Ecma International mit jährlichen Updates.
 * Implementierung neuer Webstandards in Browsern.
   * Phasen: Vorschlag, Prototyping, Standardisierung, Testing, stufenweise Einführung, vollständige Implementierung.
   * Chrome als aktiver Akteur: Vorschläge, Prototypen, Tests über "Origin Trials".
