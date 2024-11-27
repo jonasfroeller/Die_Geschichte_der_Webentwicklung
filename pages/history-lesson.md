@@ -186,7 +186,7 @@ Geschichtsstunde: <br>Wie alles begann.
 
 ---
 
-# Entwicklung der Webgestaltung und -technologien
+# Entwicklung des Internets
 
 - 1990: Tim Berners-Lee entwickelt den ersten Browser, Start mit einfachen HTML-Seiten.
 - 1992: Erstes Bild wird hochgeladen.
@@ -241,7 +241,7 @@ Geschichtsstunde: <br>Wie alles begann.
 transition: slide-up
 ---
 
-# Webentwicklung
+# Entwicklung der Webentwicklung
 
 * 2005: Google macht AJAX (async js/xml) - "the xml http thing" groß
 * 2007: jQuery wird bekannter und damit clientseitiges rendering mehr

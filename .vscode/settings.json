@@ -1,5 +1,6 @@
 {
   "markdown.copyFiles.destination": {
     "**/*": "${documentWorkspaceFolder}/public/${fileName}"
-  }
+  },
+  "cSpell.language": "en,de-DE"
 }

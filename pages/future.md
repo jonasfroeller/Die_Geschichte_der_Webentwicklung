@@ -84,7 +84,7 @@ console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-
 
 * Bun (Zig)
 * Deno (Rust)
-* oxc (Rust)
+* VoidZero (Rust)
 
 
 Mehr Infos:
@@ -116,5 +116,5 @@ WebAssembly (Wasm, 2015) ist ein offener Standard, der eine portable, binäre Co
 
 * Bun (Zig)
 * Deno (Rust)
-* oxc (Rust)
+* VoidZero (Rust)
 -->
