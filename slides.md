@@ -37,7 +37,7 @@ overviewSnapshots: true
   </span>
 </div>
 
-<div class="abs-br m-6 flex gap-2">
+<div class="flex gap-2 m-6 abs-br">
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon:edit />
   </button>
@@ -60,14 +60,14 @@ level: 2
 
 > Die absurde Geschichte der Webentwicklung
 
+<br>
+
 1. **Geschichtsstunde: Wie alles begann.**
    1. Browser
-      1. Browser-Kompatibilität
-      2. Responsive Design
    2. Suchmaschinen
-   3. Webtechnologien- und Standards: HTML5, CSS3, ES6
-2. **Was haben wir getan? - Das Framework Massacre. (State of Frontend)**
-3. **Die Zukunft** - Back to the roots?
+   3. Webtechnologien
+2. **Was haben wir getan?**
+3. **Die Zukunft**
 
 <style>
 h1 {
@@ -88,12 +88,10 @@ h1 {
 
 1. **Geschichtsstunde: Wie alles begann.**
    1. Browser
-      1. Browser-Kompatibilität
-      2. Responsive Design
    2. Suchmaschinen
    3. Webtechnologien- und Standards: HTML5, CSS3, ES6
 2. **Was haben wir getan? - Das Framework Massacre. (State of Frontend)**
-3. **Die Zukunft** - Back to the roots?
+3. **Die Zukunft** - Back to the roots? Haben wir einen vollen 360 gemacht?
 -->
 
 ---

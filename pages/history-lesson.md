@@ -19,18 +19,15 @@ Geschichtsstunde: <br>Wie alles begann.
 <div>
 
 * **Erste Webbrowser:** WorldWideWeb
-* **Standards:**
-  * IP (RFC 791), HTTP (RFC 2616) & FTP (RFC 959)
-  * HTML
-* **Herausforderungen:**
-  * Browser-Kompatibilität ([caniuse](https://caniuse.com))
-    * nur auf NeXTSTEP-Betriebssystem
-  * Responsiveness (zach)
-    * WorldWideWeb konnte nicht einmal Grafiken anzeigen
+  * **Standards:**
+    * IP, HTTP & FTP
+    * HTML
+  * nur auf NeXTSTEP-Betriebssystem
+  * Responsiveness? Fehlanzeige! WorldWideWeb konnte nicht einmal Grafiken selbst anzeigen!
 
 </div><div>
 
-<img border="rounded" class="h-95" src="/image-9.png" alt="https://x.com/MathRestaurant/status/1859660467272286362">
+<img border="rounded" class="ml-auto h-95" src="/image-9.png" alt="https://x.com/MathRestaurant/status/1859660467272286362">
 
 <!-- Alternative Display: -->
 <!-- ![https://x.com/MathRestaurant/status/1859660467272286362](/image-9.png) -->
@@ -47,14 +44,38 @@ Geschichtsstunde: <br>Wie alles begann.
 
 * **Erste Webbrowser:** WorldWideWeb (1990, später Nexus)
 * **Standards:**
-  * IP (1981 in RFC 791), FTP (RFC 959 von 1985) & HTTP (RFC 2616, 1989|1991, Tim Berners-Lee)
-  * HTML
+  * IP (1981 in RFC 791), FTP (RFC RFC 765 & 959 von 1985) & HTTP (RFC 2616, 1989 | HTTPS: 1994, Tim Berners-Lee)
+  * HTML (1990)
 * **Herausforderungen:**
   * Browser-Kompatibilität ([caniuse](https://caniuse.com))
     * WorldWideWeb funktionierte nur auf dem NeXTSTEP-Betriebssystem
   * Responsiveness (zach)
     * WorldWideWeb konnte nicht einmal Grafiken anzeigen und öffnete diese in einem anderen Programm.
       * Später unterstützte der Browser das NeXT-Bilderformat.
+
+* Erste Website: 1991, info.cern.ch, von CERN entwickelt - Freigabe für andere Forschungseinrichtungen
+* Öffentliche Freigabe: 1993
+* Später kam dann der Mosaic Browser, der es ab 1993 auch der breiteren Bevölkerung ermöglichte, Webseiten zu besuchen.
+  * zwei Millionen Downloads nach einem Jahr
+  * Mosaic wurde am National Center for Supercomputing Applications (NCSA) an der University of Illinois entwickelt und von Marc Andreessen und Eric Bina erstellt
+  * grafische Benutzeroberfläche
+
+* Netscape Navigator (1994)
+* Microsoft Internet Explorer (1995)
+* Opera (1996)
+* Safari (2003)
+* Mozilla Firefox (2004)
+* Google Chrome (2008)
+
+Request for Comments:
+* seit 1969
+* jeder kann mitmachen und einen Vorschlag einreichen
+  * Hyper Text Coffee Pot
+
+Die ursprüngliche Vision des World Wide Web war es, eine einfache Plattform für den Austausch von Informationen zu schaffen.  
+Alles ging so wahnsinnig schnell.  
+Browser-Kriege: In den 1990er Jahren erlebte das Web einen intensiven Wettbewerb zwischen Browsern wie Netscape Navigator und Internet Explorer. Diese "Browser-Kriege" führten zu inkonsistenten Standards und einer Fragmentierung des Webs, was die Entwicklung erschwerte.
+
 -->
 
 ---
@@ -139,19 +160,29 @@ Geschichtsstunde: <br>Wie alles begann.
 * ES6 (ECMAScript 2015): Standardisierung durch Ecma International mit jährlichen Updates.
 * Implementierung neuer Webstandards in Browsern.
   * Phasen: Vorschlag, Prototyping, Standardisierung, Testing, stufenweise Einführung, vollständige Implementierung.
-  * Chrome als aktiver Akteur: Vorschläge, Prototypen, Tests über "Origin Trials".
 * Technische Standards: RFC (Request for Comments)
   * Dokumentation technischer Spezifikationen, Standards und Protokolle durch IETF.
 
 <!--
-* HTML5: Standardisierung durch W3C (World Wide Web Consortium) und WHATWG (Web Hypertext Application Technology Working Group).
-* CSS3 (1996, 1998, 1999): Standardisierung durch W3C (World Wide Web Consortium).
-* ES6 (1995) (ECMAScript seit 1997 | 15th Edition – ECMAScript 2024, Brendan Eich): Standardisierung durch Ecma International mit jährlichen Updates.
+* HTML5 (1991-2017): Standardisierung durch W3C (World Wide Web Consortium) und WHATWG (Web Hypertext Application Technology Working Group).
+* CSS3 (1996-2011): Standardisierung durch W3C (World Wide Web Consortium).
+* ES6 (1995) (1997-2024 (JETZT) | 15th Edition – ECMAScript 2024, Brendan Eich): 
+  * Standardisierung durch Ecma International 
+  * jährliche Updates.
 * Implementierung neuer Webstandards in Browsern.
-  * Phasen: Vorschlag, Prototyping, Standardisierung, Testing, stufenweise Einführung, vollständige Implementierung.
-  * Chrome als aktiver Akteur: Vorschläge, Prototypen, Tests über "Origin Trials".
+  * Phasen:
+    * Vorschlag, 
+    * Prototyping,
+    * Standardisierung,
+    * Testing,
+    * stufenweise Einführung,
+    * vollständige Implementierung.
+  * Chrome als aktiver Akteur:
+    * Vorschläge, Prototypen, Tests über "Origin Trials".
 * Technische Standards: RFC (Request for Comments)
-  * Dokumentation technischer Spezifikationen, Standards und Protokolle durch IETF.
+  * Dokumentation technischer Spezifikationen, Standards und Protokolle durch IETF (Internet Engineering Task Force, 1986, definiert Protokolle wie TCP/IP).
+    * alle Teilnehmer sind Freiwillige
+    * Arbeitsgruppen
 -->
 
 ---
@@ -178,8 +209,8 @@ Geschichtsstunde: <br>Wie alles begann.
 </center>
 
 <!--
-1. HTML
-2. CSS und Bilder
+1. HTML (1990)
+2. Bilder, CSS & JS (1993, 1996 & 1997)
 3. Alles, was man sich erträumen kann
 -->
 
@@ -189,28 +220,30 @@ Geschichtsstunde: <br>Wie alles begann.
 
 - 1990: Erster Browser.
 - 1992: Erstes Bild wird hochgeladen.
-- 1992: Websites wachsen von 10 auf über 1 Million in 1997.
-- Flash-Ära: Animationen und Spiele ([killed by Google](https://killedbygoogle.com), 296)
-- Web-Fonts
-- 2007: Iphone, Mobile und responsive Designs
+- 1997: Websites wachsen von 10 in 92 auf über 1 Million in 1997.
+- 1993-2021: Flash-Ära - Animationen und Spiele ([killed by Google](https://killedbygoogle.com), 296)
+- 1997 (EOT), 1998 (@font-face): Web-Fonts in Internet Explorer
+- 2007: "Iphone 1", responsive Designs & Barrierefreiheit
 
 <!--
 # Entwicklung der Webgestaltung und -technologien
 
 - **Die Geburt des Webs**
-  - 1990: Tim Berners-Lee entwickelt den ersten Browser, Start mit einfachen HTML-Seiten.
-  - 1992: Erstes Bild wird hochgeladen.
+  - 1990: Tim Berners-Lee entwickelt den **ersten Browser**, Start mit einfachen HTML-Seiten.
+  - 1992: **Erstes Bild** wird hochgeladen.
 
 - **Öffentlicher Zugang zum Internet**
-  - Mitte der 90er: Internet gewinnt an Bekanntheit.
-  - Tools wie GeoCities und FrontPage ermöglichen einfache Webseiten.
+  - 1997: 1 Millionen Websites.
+  - Tools wie GeoCities (web hosting service) und FrontPage (Microsoft FrontPage is a discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems.) ermöglichen einfache Webseiten.
 
-- **Technologisches Wachstum**
-  - Websites wachsen von 10 (1992) auf über 1 Million (1997).
-  - Einführung von JavaScript und CSS.
+- 1993-2021: Flash-Ära
+  - Animationen und Spiele ([killed by Google](https://killedbygoogle.com), 296)
+- 1997 (EOT, Embedded OpenType), 
+  - 1998 (@font-face): Web-Fonts in Internet Explorer 
+  - @font-face: 2009 in Safari und Firefox :skull:
+- 2007: "Iphone 1", responsive Designs & Barrierefreiheit
 
-- **Flash-Ära**
-  - Flash bringt Animationen und interaktive Designs, wird aber aus Sicherheits- und Zugänglichkeitsgründen eingestellt.
+END END END END END END END END END END END
 
 - **Web 2.0 und soziale Medien**
   - Plattformen wie Myspace, Facebook, Twitter, YouTube und Instagram entstehen.
@@ -249,16 +282,16 @@ transition: slide-up
   * jetzt auch JS im backend
   * SPAs im kommen
   * SSR => REST APIs
-* 2016: AngularJS wird Angular (JS => TS)
-  * React & Vue etablieren sich
+* 2016: AngularJS wird Angular (JS => TS (Microsoft 2012))
 * 2022: Back to the roots: SSR erlebt eine Renaissance
-* Astro: SSR Framework mit Adaptern für Frontend-Frameworks, HTMX
-* Typescript ist Industriestandard
+  * Astro: SSR Framework mit Adaptern für Frontend-Frameworks, HTMX
+  * Typescript ist Industriestandard
 
 <!--
 # Entwicklung von JavaScript und Webentwicklung
 
 - **2005: Aufstieg von AJAX**
+  - Asynchrones JavaScript und XML.
   - Google popularisiert AJAX für serverseitige Kommunikation ohne Seitenreloads.
   - Serverseitiges Rendering dominiert, einfache JavaScript-Tools im Einsatz.
   - Fokus auf Internet Explorer-Kompatibilität.

@@ -19,7 +19,7 @@ image: /image-18.png
 
 - **jQuery** (2006): einfachere DOM-Manipulation
 - **AngularJS** (2010): neuer Ansatz für SPAs
-- **React** (2013): entwickelt von Facebook (eigentlich Library)
+- **React** (2013): entwickelt von Facebook
 - **Vue** (2014): leichtgewichtige Alternative (Busproblem)
 - **Svelte** (2016): kompiliert zur Build-Zeit (eigentlich Compiler)
 
@@ -32,7 +32,7 @@ image: /image-18.png
 - Einführung von **AngularJS** (2010): Neuer Ansatz für Single Page Applications (SPAs).
 - Aufstieg moderner Frameworks:
   - **React** (2013): entwickelt von Facebook (eigentlich Library).
-  - **Vue.js** (2014): Leichtgewichtige Alternative (eigentlich Compiler).
+  - **Vue.js** (2014): Leichtgewichtige Alternative (eigentlich Compiler). Voltar ansprechen!
   - **Svelte** (2016): Kompiliert zur Build-Zeit, keine Laufzeitbibliothek, hohe Performance.
 
 Ein neues Framework alle paar Monate.
